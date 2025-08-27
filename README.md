@@ -1,23 +1,21 @@
 # DeployLaravel
 Script para desplegar proyectos Laravel
 
-# Objetivo:
-
+## Objetivo:
 Desplegar fácilmente proyectos laravel con la configuración básica.
 
-# Parametros
+## Parametros
 - Verify:
-			- Path
-			- Requeriments
+	- Path
+	- Requeriments
 
 - Install
-			- Requeriments: Instala PHP, Composer,Certbot, NGINX, Mariadb.
+	- Requeriments: Instala PHP, Composer,Certbot, NGINX, Mariadb.
 
 - Version
 
-# Autor
-
+## Autor
 Name: Ismael G. Jiménez 
-Web: 
+Web: https://github.com/DashBlanco
 Email: igjrbm@gmail.com
 
